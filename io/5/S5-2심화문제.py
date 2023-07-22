@@ -1,0 +1,1 @@
+emails = [["kim","naver.com"],["hwang","hanmail.net"],[len]]
