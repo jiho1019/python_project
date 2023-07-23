@@ -4,7 +4,6 @@ b = []
 while a < len(numbers):
   if numbers[a]%2 == 0:
     b.append(numbers[a])
-  else:
-    continue
+  a = a + 1
 print(b)
 print(sum(b))

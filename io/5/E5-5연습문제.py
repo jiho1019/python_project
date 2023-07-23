@@ -1,3 +1,6 @@
-a = "I am a surgeon!"
+a = "I am a genius!"
 list = []
-for x in string()  
+for i in a:
+  list.append(i)
+print(list)
+
